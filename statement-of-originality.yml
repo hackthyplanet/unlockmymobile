@@ -1,0 +1,56 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+
+# add as many "name+comment" entries as necessary
+# (or remove it altogether if you haven't collaborated with anyone)
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: sound effect button
+    url: https://p5js.org/examples/sound-sound-effect.html?fbclid=IwAR3-e-E0diyVLsOF7mCn914WaDkV9kc6wNIrhUHGp2EeGB4R59R2fWr0vyw
+    licence: CCBYNCSA
+  - comment: star code
+    url: https://p5js.org/examples/form-star.html
+    licence: CCBYNCSA
+  - comment: sparkle code
+    url: https://editor.p5js.org/ag3439/sketches/Skgh1ZQtQ
+    licence: All Rights Reserved
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment: (background music) DJ Victor Borge 'Unlock It' remix
+    url: https://weirdnxc.bandcamp.com/album/act-4
+    licence: All Rights Reserved 
+  - comment: (unlock sound effect(sound effect one)) I combined two sound effects from youtube using Audacity
+    url: https://www.youtube.com/watch?v=W7bpJZ7XlCM&ab_channel=TheSoundFXChannel
+    licence: fair use
+  - comment: (sound effect two)
+    url: https://www.youtube.com/watch?v=Yu62II1h43E&ab_channel=FreeAudioZone
+    licence: fair use   
+  - comment: (Gold Frames) I heavily edited this image using GIMP
+    url: https://pixabay.com/photos/passau-dom-organ-gallery-baroque-3265662/
+    licence: Pixabay licence 
+  - comment: (Glass Heart(Texture One)) In creating the glass heart image I used these two images as textures
+    url: https://www.justaddiceorchids.com/hubfs/_1_Plants/Classic/watering-orchids.jpg
+    licence: fair use
+  - comment: (Texture Two)
+    url: https://securecdn.pymnts.com/wp-content/uploads/2019/11/shattered-glass-product-launch-marketing-stunts-457x305.jpg
+    licence: fair use 
+  - comment: (Key) 
+    url: https://securecdn.pymnts.com/wp-content/uploads/2019/11/shattered-glass-product-launch-marketing-stunts-457x305.jpg
+    licence: pngtree
+
+
+
+# sign *your* name and uid here
+name: Niamh Dolfi-McCool  
+uid: u6375846
